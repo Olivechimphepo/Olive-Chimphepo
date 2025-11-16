@@ -13,7 +13,7 @@ Bringing ideas to life with <strong>Flutter • Angular • Tailwind • React N
 ##✨ About Me
 - 🌺 I love building smooth & aesthetic mobile experiences  
 - 🎧 I code with music & creativity  
-- 📱 Currently focusing more on **Flutter** & **React Native**  
+- 📱 Currently focusing more on **Flutter** & **Angular**  
 - ✨ My vibe: fun • soft • aesthetic • going with the flow   
 - 🌍 Living somewhere between creativity & clean code  
 
